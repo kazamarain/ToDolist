@@ -5,6 +5,8 @@
 //  Created by ユウ・カザマ on 2022/10/12.
 //
 
+//コメントを追加
+
 import UIKit
 
 class ViewController: UIViewController {
